@@ -1,7 +1,9 @@
 # Organización
 
 Pizarras de Miro para llevar distintos aspectos Importantes:
+
   Ideas: https://miro.com/app/board/uXjVPYd3Ni0=/?share_link_id=557282867573
+  
   KanBan: https://miro.com/app/board/uXjVPYd3Nvg=/?share_link_id=835673566075
   
 ---
