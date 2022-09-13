@@ -2,9 +2,9 @@
 
 Pizarras de Miro para llevar distintos aspectos Importantes:
 
-  Ideas: https://miro.com/app/board/uXjVPYd3Ni0=/?share_link_id=557282867573
+  Ideas: https://miro.com/welcomeonboard/VnIyYUJkTU96WVhnUGNXZllPS0d0RThpV2tmbkI3aGlCVXhsOWtha254YzUxV1cwQ2M2NGZZeVQyeWtENWxzUHwzNDU4NzY0NTMzMTQyMTAyNTY5?share_link_id=582764244209
   
-  KanBan: https://miro.com/app/board/uXjVPYd3Nvg=/?share_link_id=835673566075
+  KanBan: (ver la de github)
   
 ---
 
